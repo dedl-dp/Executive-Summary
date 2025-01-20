@@ -14,7 +14,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="الملخص التنفيذي - v1" />
+              <option name="title_text" value="الملخص التنفيذي - Final" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1606,51 +1606,40 @@
         <slidelink slideid="_player.6TNGMSfmz6x" displaytext="Main" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6TNGMSfmz6x.6TjlzarvElw" displaytext="1" expand="false" type="slide" />
-            <slidelink slideid="_player.6TNGMSfmz6x.6JSEedCU7dl" displaytext="قائمة محتويات التقرير" expand="false" type="slide" />
             <slidelink slideid="_player.6TNGMSfmz6x.61ggMrQo2Xa" displaytext="المقدمة" expand="false" type="slide" />
+            <slidelink slideid="_player.6TNGMSfmz6x.6CxuxH4PWqP" displaytext="قائمة محتويات التقرير" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6ZRkAwH9wjM" displaytext="الجزء الأول" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6ZRkAwH9wjM.6Jx67mgdld9" displaytext="أساس الدراسة" expand="false" type="slide" />
             <slidelink slideid="_player.6ZRkAwH9wjM.5oBlnaS7qRo" displaytext="هدف الدراسة" expand="false" type="slide" />
-            <slidelink slideid="_player.6ZRkAwH9wjM.6ZY2IjbhQbm" displaytext="أعضاء فريق الدراسة" expand="false" type="slide" />
             <slidelink slideid="_player.6ZRkAwH9wjM.67uwRIPZZN2" displaytext="منهجية الدراسة" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6bh2995970U" displaytext="الجزء الثاني" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6bh2995970U.5atHimxLoh7" displaytext="حصر الوثائق" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZRkAwH9wjM.5atHimxLoh7" displaytext="حصر الوثائق" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5mnzpzaJYvw" displaytext="الجزء الثالث" expand="true" type="slide">
+        <slidelink slideid="_player.5mnzpzaJYvw" displaytext="الجزء الثاني" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5mnzpzaJYvw.5lewQlz5YMA" displaytext="مصادر البيانات والإحصائيات " expand="false" type="slide" />
             <slidelink slideid="_player.5mnzpzaJYvw.6gUTdNou5zc" displaytext="أبرز نتائج المسح الوطني " expand="false" type="slide" />
             <slidelink slideid="_player.5mnzpzaJYvw.5omQWoCfEpy" displaytext="مؤشرات وزارة الصحة " expand="false" type="slide" />
             <slidelink slideid="_player.5mnzpzaJYvw.5h0S5er5RXp" displaytext="عدد وفيات الانتحار " expand="false" type="slide" />
             <slidelink slideid="_player.5mnzpzaJYvw.6klt0Z6bK5C" displaytext="معدل القلق والاكتئاب " expand="false" type="slide" />
-            <slidelink slideid="_player.5mnzpzaJYvw.5UwrHbLRgKz" displaytext="توصيات الدراسة الاستشارية الأولى" expand="false" type="slide" />
+            <slidelink slideid="_player.5mnzpzaJYvw.6ZXAGdGt3sj" displaytext="أساس الدراسة" expand="false" type="slide" />
+            <slidelink slideid="_player.5mnzpzaJYvw.5zBOeZRWUzl" displaytext="أساس الدراسة" expand="false" type="slide" />
+            <slidelink slideid="_player.5mnzpzaJYvw.5x5jVanRPRx" displaytext="أساس الدراسة" expand="false" type="slide" />
+            <slidelink slideid="_player.5mnzpzaJYvw.5ejI86rTGS2" displaytext="أساس الدراسة" expand="false" type="slide" />
+            <slidelink slideid="_player.5mnzpzaJYvw.6CDbYQxuu7b" displaytext="مقدمة الجزء الخامس" expand="false" type="slide" />
+            <slidelink slideid="_player.5mnzpzaJYvw.5Y9B9sfaKEg" displaytext="ملخص التجارب المرجعية التي تم اختيارها" expand="false" type="slide" />
+            <slidelink slideid="_player.5mnzpzaJYvw.6cnYs8nAnWJ" displaytext="تقييم فعالية المراكز في التجارب المرجعية" expand="false" type="slide" />
+            <slidelink slideid="_player.5mnzpzaJYvw.5d4whp70Ok2" displaytext="توصيات الدراسة الاستشارية الثالثة" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5eLJPmP2JK9" displaytext="الجزء الرابع" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5eLJPmP2JK9.6c9t3EaKeyF" displaytext="أساس الدراسة" expand="false" type="slide" />
-            <slidelink slideid="_player.5eLJPmP2JK9.61yu66QToKV" displaytext="أساس الدراسة" expand="false" type="slide" />
-            <slidelink slideid="_player.5eLJPmP2JK9.6clYhfHmPV6" displaytext="أساس الدراسة" expand="false" type="slide" />
-            <slidelink slideid="_player.5eLJPmP2JK9.6KrHLQSaEd9" displaytext="أساس الدراسة" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.5rur7oY0NBS" displaytext="الجزء الخامس" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5rur7oY0NBS.6dyghOvfope" displaytext="مقدمة الجزء الخامس" expand="false" type="slide" />
-            <slidelink slideid="_player.5rur7oY0NBS.65I2nTDIblC" displaytext="آليات العمل" expand="false" type="slide" />
-            <slidelink slideid="_player.5rur7oY0NBS.6PRRxzGvpaB" displaytext="ملخص التجارب المرجعية التي تم اختيارها" expand="false" type="slide" />
-            <slidelink slideid="_player.5rur7oY0NBS.6rG2EtG2yTe" displaytext="تقييم فعالية المراكز في التجارب المرجعية" expand="false" type="slide" />
-            <slidelink slideid="_player.5rur7oY0NBS.5ziebnKn62c" displaytext="توصيات الدراسة الاستشارية الثالثة" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.5YL57DMJ6Y6" displaytext="الجزء السادس" expand="true" type="slide">
+        <slidelink slideid="_player.5YL57DMJ6Y6" displaytext="الجزء الثالث" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5YL57DMJ6Y6.6jVWCvm1I6e" displaytext="المحور الأول" expand="false" type="slide" />
             <slidelink slideid="_player.5YL57DMJ6Y6.6IivFy8S6vB" displaytext="المحاور الأساسية للدراسة التحليلية" expand="false" type="slide" />
@@ -1659,9 +1648,11 @@
             <slidelink slideid="_player.5YL57DMJ6Y6.69XVnp8erVD" displaytext="المحور الرابع" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5r6JIbhpLcw" displaytext="الجزء السابع" expand="true" type="slide">
+        <slidelink slideid="_player.5r6JIbhpLcw" displaytext="الجزء الرابع" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5r6JIbhpLcw.6MCBHfErK6V" displaytext="المحاور الأساسية للدراسة التحليلية" expand="false" type="slide" />
+            <slidelink slideid="_player.5r6JIbhpLcw.66H9TlolBRC" displaytext="المحاور الأساسية للدراسة التحليلية" expand="false" type="slide" />
+            <slidelink slideid="_player.5r6JIbhpLcw.6Wk1h8eGxQs" displaytext="المحاور الأساسية للدراسة التحليلية" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
